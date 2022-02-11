@@ -1,5 +1,5 @@
 version(1);
-project_name = "Archie";
+project_name = "Archie2021";
 patterns = {
 "*.c",
 "*.cpp",

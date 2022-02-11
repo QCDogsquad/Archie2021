@@ -1,7 +1,7 @@
 {
     "py/object": "pros.conductor.project.Project",
     "py/state": {
-        "project_name": "Archie",
+        "project_name": "Archie 2021",
         "target": "v5",
         "templates": {
             "kernel": {
